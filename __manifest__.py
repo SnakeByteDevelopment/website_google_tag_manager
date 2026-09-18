@@ -3,6 +3,7 @@
     'version': '18.0.1.0',
     'depends': ['base', 'website'],
     'author': "Gert Pellin",
+    'license': 'Other proprietary',
     'category': 'website',
     'description': """
     """,
